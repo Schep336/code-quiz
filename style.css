@@ -1,0 +1,48 @@
+#nav {
+    display: block;
+    background-color: rgba(0, 132, 255, 0.815);
+    width: 99vw;
+    border: 2px solid rgb(123, 255, 0);
+    border-radius: 7px;
+    margin: 2px;
+    
+}
+
+header {
+    background-color: rgb(0, 66, 128);
+    margin-bottom: 10px;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color:rgb(206, 194, 194);
+}
+
+button {
+    background-color: rgb(98, 198, 255);
+    color: white;
+    border:rgb(0, 110, 255);
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 5px;
+}
+
+#quizMain {
+    text-align: center;
+    background-color: rgb(204, 197, 197);
+}
+
+h4 {
+    color: white;
+    font-size: 27px;
+    padding-right: 100px;
+    padding-top: 4px;
+}
+
+h8 {
+    color: white;
+    font-size: 30px;
+   
+
+}
+
